@@ -58,9 +58,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ragalik11">
-    <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/thanks-for-visiting.svg" alt="Thanks for visiting me" />
-  </a>
 </p>
 
 <p align="center">
