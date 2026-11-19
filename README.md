@@ -1,14 +1,14 @@
-# Привет, я @ragalik11 👋<img width="112" height="112" alt="don&#39;t-worry-doesn&#39;t-matter" src="https://github.com/user-attachments/assets/dcb1c6ad-2757-4c7a-bd8d-df1e53da78f0" />
+# Привет, я ragalik 👋<img width="112" height="112" alt="don&#39;t-worry-doesn&#39;t-matter" src="https://github.com/user-attachments/assets/dcb1c6ad-2757-4c7a-bd8d-df1e53da78f0" />
 
 ## 👨‍💻 Обо мне
 - 🎓 Студент МАИ
 - 🧠 Специализация: IT / программирование / алгоритмы
-- 🌱 Сейчас изучаю: Php, C, 
+- 🌱 Сейчас изучаю: Php, C, Laravel, Js
 
 - 💞️ Готов к коллаборации над учебными и pet-проектами
-- 📫 Как со мной связаться: **ragalik11@example.com** *(замените на свою почту)*
-- 😄 Местоимения: он/его
-- ⚡ Факт: пишу курсовые в LaTeX и не жалею об этом
+- 📫 Как со мной связаться: Tg: @raGaL1k_Ow2
+- 😄 Возрост: 21
+- ⚡ Факт: Учюсь в МАИ и не жалаюсь
 
 ---
 
