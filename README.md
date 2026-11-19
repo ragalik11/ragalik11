@@ -52,6 +52,7 @@
 
 ---
 
-<p align="center">
-  <i>«Учись, твори, не сдавайся — даже если LaTeX ругается на 15 ошибку подряд»</i>
-</p>
+[![Thanks for visiting me](https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/thanks-for-visiting.svg)](https://github.com/ragalik11)
+
+[![Site created with Notepad](https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.svg)](https://github.com/ragalik11)
+[![Microsoft Internet Explorer](https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie.svg)](https://github.com/ragalik11)
