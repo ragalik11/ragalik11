@@ -1,14 +1,14 @@
-# Привет, я ragalik 👋<img width="112" height="112" alt="don&#39;t-worry-doesn&#39;t-matter" src="https://github.com/user-attachments/assets/dcb1c6ad-2757-4c7a-bd8d-df1e53da78f0" />
+# Привет, я ragalik 👋
+<img width="112" height="112" alt="don't-worry-doesn't-matter" src="https://github.com/user-attachments/assets/dcb1c6ad-2757-4c7a-bd8d-df1e53da78f0" align="right" />
 
 ## 👨‍💻 Обо мне
 - 🎓 Студент МАИ
 - 🧠 Специализация: IT / программирование / алгоритмы
-- 🌱 Сейчас изучаю: Php, C, Laravel, Js
-
+- 🌱 Сейчас изучаю: **PHP, C, Laravel, JS**
 - 💞️ Готов к коллаборации над учебными и pet-проектами
-- 📫 Как со мной связаться: Tg: @raGaL1k_Ow2
-- 😄 Возрост: 21
-- ⚡ Факт: Учюсь в МАИ и не жалаюсь
+- 📫 Как со мной связаться: **Telegram: @raGaL1k_Ow2**
+- 😄 Возраст: 21
+- ⚡ Факт: учусь в МАИ и не жалуюсь
 
 ---
 
@@ -17,11 +17,10 @@
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-
 
 ---
 
@@ -38,21 +37,49 @@
 
 | Проект | Описание | Стек |
 |---|---|---|
-| [Название проекта 1](https://github.com/ragalik11/название) | Краткое описание проекта | Python |
-| [Название проекта 2](https://github.com/ragalik11/название) | Краткое описание проекта | C++ |
+| [Название проекта 1](https://github.com/ragalik11/название) | Краткое описание проекта | PHP |
+| [Название проекта 2](https://github.com/ragalik11/название) | Краткое описание проекта | Laravel |
 | [Шаблон курсовой МАИ](https://github.com/ragalik11/название) | LaTeX-шаблон по требованиям МАИ | LaTeX |
 
 ---
 
 ## 📫 Контакты
 
-- 📧 Email: **ragalik11@example.com**
-- 💬 Telegram: [@ragalik11](https://t.me/ragalik11) *(если есть — замените)*
+- 💬 Telegram: [@raGaL1k_Ow2](https://t.me/raGaL1k_Ow2)
 - 🎓 МАИ, институт № 3 (СФ)
+- 📧 Email: **ragalik11@example.com** *(замени на свою почту или удали строку)*
 
 ---
 
-[![Thanks for visiting me](https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/thanks-for-visiting.svg)](https://github.com/ragalik11)
+## 📖 Гостевая книга
 
-[![Site created with Notepad](https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.svg)](https://github.com/ragalik11)
-[![Microsoft Internet Explorer](https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie.svg)](https://github.com/ragalik11)
+| Имя | Дата | Сообщение |
+|---|---|---|
+| *Твоё имя* | *Дата* | *Сообщение* |
+
+> Оставь запись через Pull Request в файл `README.md` — как в старые добрые времена.
+
+---
+
+<!-- ===== Ретро-футер в стиле brunnerlivio ===== -->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" alt="marquee" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ragalik11">
+    <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/thanks-for-visiting.svg" alt="Thanks for visiting me" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" />
+  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
+  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="No frames" />
+  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/guestbook.png" alt="Guestbook" />
+</p>
+
+<p align="center">
+  <i>Best viewed in 800×600 · Made with Notepad · Powered by coffee ☕</i>
+</p>
